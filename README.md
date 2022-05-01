@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajankrishnasami, looking forward to become a part of this awesome community.
+- 👋 Hi, I’m @rajankrishnasami founder of <strong>Blockchain கழகம் </strong>, looking forward to become a part of this awesome community.
 - 👀 I’m interested in Webdevelopment , Creating own algorithms ,...
 - 🌱 I’m currently learning JavaScript & Blockchain Development .
 - 💞️ I’m looking to collaborate on Python programming language.
